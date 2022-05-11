@@ -37,6 +37,6 @@ Samantha, Brown, 9/24/1999, female, Columbia University, BA in English Education
 Howard, Lang, 8/4/1998, male, Georgia State University, MA in History Education, word of mouth, 1/31/2022, null, null
 Sarah, Blanks, 10/20/1995, female, Columbia University, MA in Science Education, social media, 5/23/2020, New York City Day School, 8/17/2020
 Ella, Lewis, 8/22/2000, female, Excelsior College, BA in English Education, word of mouth, 4/1/2022, null, null
-Julie, Goldman, 3/30/1997, University of Denver, MA in Social Studies Education, social media, 7/14/2020, 8/17/2020
+Julie, Goldman, 3/30/1997, University of Denver, MA in Social Studies Education, social media, Manhatten Elementary School, 7/14/2020, 8/17/2020
 
 */
